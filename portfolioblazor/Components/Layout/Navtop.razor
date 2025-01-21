@@ -1,0 +1,33 @@
+﻿@rendermode InteractiveServer
+@inject EventManager EventManager
+@page "/navtop"
+
+
+
+
+
+
+
+<div class="top-row-navbar ps-3 navbar navbar-dark d-flex">
+    <div class="ms-auto">
+        <button class="btn btn-success me-2" @onclick="ChangeLanguageenglish">EN</button>
+        <button class="btn btn-success me-4" @onclick="ChangeLanguagethai">TH</button>
+    </div>
+</div>
+@code
+{
+    public void ChangeLanguageenglish()
+    {
+        JsonLanguage.language = "home_en";
+        EventManager.OnChange();
+        StateHasChanged();
+    }
+    public void ChangeLanguagethai()
+    {
+        JsonLanguage.language = "home_th";
+        EventManager.OnChange();
+        StateHasChanged();
+    }
+
+}
+

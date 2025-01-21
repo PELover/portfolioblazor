@@ -1,0 +1,40 @@
+﻿@using System.Text.Json;
+@using System.IO;
+@inject EventManager EventManager
+@inject IJSRuntime JSRuntime
+
+@page "/"
+@rendermode InteractiveServer
+<PageTitle>Home</PageTitle>
+
+<h1 class="text-center">@data?.name</h1>
+
+
+<FetchData />
+
+
+@code
+{
+    JsonLanguage? data;
+
+    protected override async Task OnInitializedAsync()
+    {   
+        EventManager.OnLanguageChange += Changed;
+        await LoadData();
+    }
+    private async Task LoadData()
+    {        
+        var jsonString = await File.ReadAllTextAsync(JsonLanguage.filePath);
+        data = JsonSerializer.Deserialize<JsonLanguage>(jsonString);
+        await InvokeAsync(StateHasChanged);
+    }
+    private async void Changed()
+    {
+        await LoadData();      
+    }
+    public void Dispose()
+    {
+        Console.WriteLine("Dispose called!");
+        EventManager.OnLanguageChange -= Changed;
+    }
+}

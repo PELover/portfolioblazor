@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\components\\layout\\navtop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\components\\layout\\navtop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\components\\layout\\navtop.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\components\\layout\\navtop.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "portfolioblazor\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "portfolioblazor\\Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-20T14:44:31.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Navtop.razor.css",
+              "DocumentMoniker": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\Components\\Layout\\Navtop.razor.css",
+              "RelativeDocumentMoniker": "portfolioblazor\\Components\\Layout\\Navtop.razor.css",
+              "ToolTip": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\Components\\Layout\\Navtop.razor.css",
+              "RelativeToolTip": "portfolioblazor\\Components\\Layout\\Navtop.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-20T14:43:59.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "portfolioblazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "portfolioblazor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T14:39:41.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Navtop.razor",
+              "DocumentMoniker": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\Components\\Layout\\Navtop.razor",
+              "RelativeDocumentMoniker": "portfolioblazor\\Components\\Layout\\Navtop.razor",
+              "ToolTip": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\Components\\Layout\\Navtop.razor",
+              "RelativeToolTip": "portfolioblazor\\Components\\Layout\\Navtop.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T13:57:24.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
