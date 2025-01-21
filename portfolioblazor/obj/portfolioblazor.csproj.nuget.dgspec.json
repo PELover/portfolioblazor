@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\portfolioblazor.csproj": {}
+    "C:\\portfolioblazor\\portfolioblazor\\portfolioblazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\portfolioblazor.csproj": {
+    "C:\\portfolioblazor\\portfolioblazor\\portfolioblazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\portfolioblazor.csproj",
+        "projectUniqueName": "C:\\portfolioblazor\\portfolioblazor\\portfolioblazor.csproj",
         "projectName": "portfolioblazor",
-        "projectPath": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\portfolioblazor.csproj",
+        "projectPath": "C:\\portfolioblazor\\portfolioblazor\\portfolioblazor.csproj",
         "packagesPath": "C:\\Users\\mothz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\",
+        "outputPath": "C:\\portfolioblazor\\portfolioblazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

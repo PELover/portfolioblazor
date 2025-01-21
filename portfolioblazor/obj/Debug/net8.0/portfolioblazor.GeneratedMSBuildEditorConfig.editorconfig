@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = portfolioblazor
 build_property.RootNamespace = portfolioblazor
-build_property.ProjectDir = C:\Users\mothz\source\repos\portfolioblazor\portfolioblazor\
+build_property.ProjectDir = C:\portfolioblazor\portfolioblazor\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mothz\source\repos\portfolioblazor\portfolioblazor
+build_property.MSBuildProjectDirectory = C:\portfolioblazor\portfolioblazor
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/mothz/source/repos/portfolioblazor/portfolioblazor/Components/App.razor]
+[C:/portfolioblazor/portfolioblazor/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/portfolioblazor/portfolioblazor/Components/Pages/Counter.razor]
+[C:/portfolioblazor/portfolioblazor/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/portfolioblazor/portfolioblazor/Components/Pages/Error.razor]
+[C:/portfolioblazor/portfolioblazor/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/portfolioblazor/portfolioblazor/Components/Pages/Home.razor]
+[C:/portfolioblazor/portfolioblazor/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/portfolioblazor/portfolioblazor/Components/Pages/Weather.razor]
+[C:/portfolioblazor/portfolioblazor/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/portfolioblazor/portfolioblazor/Components/Routes.razor]
+[C:/portfolioblazor/portfolioblazor/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/portfolioblazor/portfolioblazor/Components/_Imports.razor]
+[C:/portfolioblazor/portfolioblazor/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/portfolioblazor/portfolioblazor/Components/Layout/MainLayout.razor]
+[C:/portfolioblazor/portfolioblazor/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-rv6ih474sa
 
-[C:/Users/mothz/source/repos/portfolioblazor/portfolioblazor/Components/Layout/NavMenu.razor]
+[C:/portfolioblazor/portfolioblazor/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-h95tdjg1tq
 
-[C:/Users/mothz/source/repos/portfolioblazor/portfolioblazor/Components/Layout/Navtop.razor]
+[C:/portfolioblazor/portfolioblazor/Components/Layout/Navtop.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2dG9wLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-kgul4c3qm9
