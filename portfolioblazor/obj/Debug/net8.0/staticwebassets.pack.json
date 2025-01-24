@@ -1,31 +1,31 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolioblazor.bundle.scp.css",
-      "PackagePath": "staticwebassets\\portfolioblazor.5m8buhonsk.bundle.scp.css"
+      "Id": "C:\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolioblazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\portfolioblazor.lziobdcsm8.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\app.css",
+      "Id": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\favicon.png",
+      "Id": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_en.json",
+      "Id": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_en.json",
       "PackagePath": "staticwebassets\\json\\home_en.json"
     },
     {
-      "Id": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_th.json",
+      "Id": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_th.json",
       "PackagePath": "staticwebassets\\json\\home_th.json"
     },
     {

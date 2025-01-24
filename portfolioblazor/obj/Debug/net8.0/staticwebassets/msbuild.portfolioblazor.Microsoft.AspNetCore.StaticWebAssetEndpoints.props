@@ -72,17 +72,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5exm29qX3tkSSgC53ZpX061JorvWSFbqzvv97I75qek="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2108"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u00225exm29qX3tkSSgC53ZpX061JorvWSFbqzvv97I75qek=\u0022"},{"Name":"Last-Modified","Value":"Sun, 12 Jan 2025 05:15:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/portfolioblazor/portfolioblazor.5m8buhonsk.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\portfolioblazor.5m8buhonsk.bundle.scp.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5m8buhonsk"},{"Name":"integrity","Value":"sha256-XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ="},{"Name":"label","Value":"_content/portfolioblazor/portfolioblazor.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6089"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 20 Jan 2025 14:50:28 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/portfolioblazor/portfolioblazor.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\portfolioblazor.5m8buhonsk.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\portfolioblazor.lziobdcsm8.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6089"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 20 Jan 2025 14:50:28 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6077"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 05:27:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/portfolioblazor/portfolioblazor.lziobdcsm8.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\portfolioblazor.lziobdcsm8.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lziobdcsm8"},{"Name":"integrity","Value":"sha256-IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4="},{"Name":"label","Value":"_content/portfolioblazor/portfolioblazor.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6077"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 05:27:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

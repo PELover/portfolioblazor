@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gy/H56TrsZ7ajhIEQZCE00LXtR6Yn66qTbTiLkGQu9g=",
+  "Hash": "j8TOuSagk/xijlXrzAkNKc4z96x9Cx8FQVcTXdEkO40=",
   "Source": "portfolioblazor",
   "BasePath": "_content/portfolioblazor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "portfolioblazor\\wwwroot",
       "Source": "portfolioblazor",
-      "ContentRoot": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\",
+      "ContentRoot": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\",
       "BasePath": "_content/portfolioblazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolioblazor.styles.css",
+      "Identity": "C:\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolioblazor.styles.css",
       "SourceId": "portfolioblazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/portfolioblazor",
       "RelativePath": "portfolioblazor#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -31,17 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "5m8buhonsk",
-      "Integrity": "XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ=",
+      "Fingerprint": "lziobdcsm8",
+      "Integrity": "IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolioblazor.styles.css"
+      "OriginalItemSpec": "C:\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolioblazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolioblazor.bundle.scp.css",
+      "Identity": "C:\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolioblazor.bundle.scp.css",
       "SourceId": "portfolioblazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/portfolioblazor",
       "RelativePath": "portfolioblazor#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -52,17 +52,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "5m8buhonsk",
-      "Integrity": "XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ=",
+      "Fingerprint": "lziobdcsm8",
+      "Integrity": "IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolioblazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolioblazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\app.css",
+      "Identity": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\app.css",
       "SourceId": "portfolioblazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\",
+      "ContentRoot": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\",
       "BasePath": "_content/portfolioblazor",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "portfolioblazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\",
+      "ContentRoot": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\",
       "BasePath": "_content/portfolioblazor",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "portfolioblazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\",
+      "ContentRoot": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\",
       "BasePath": "_content/portfolioblazor",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\favicon.png",
+      "Identity": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\favicon.png",
       "SourceId": "portfolioblazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\",
+      "ContentRoot": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\",
       "BasePath": "_content/portfolioblazor",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_en.json",
+      "Identity": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_en.json",
       "SourceId": "portfolioblazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\",
+      "ContentRoot": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\",
       "BasePath": "_content/portfolioblazor",
       "RelativePath": "json/home_en#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\json\\home_en.json"
     },
     {
-      "Identity": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_th.json",
+      "Identity": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_th.json",
       "SourceId": "portfolioblazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\",
+      "ContentRoot": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\",
       "BasePath": "_content/portfolioblazor",
       "RelativePath": "json/home_th#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -188,7 +188,7 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\app.css",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -225,7 +225,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\app.css",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -270,7 +270,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -315,7 +315,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -352,7 +352,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -397,7 +397,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -434,7 +434,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -479,7 +479,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -516,7 +516,7 @@
     },
     {
       "Route": "json/home_en.h9w4bey1jo.json",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_en.json",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_en.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -561,7 +561,7 @@
     },
     {
       "Route": "json/home_en.json",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_en.json",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_en.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -598,7 +598,7 @@
     },
     {
       "Route": "json/home_th.dypipkhknw.json",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_th.json",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_th.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "Route": "json/home_th.json",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_th.json",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\json\\home_th.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -679,8 +679,8 @@
       ]
     },
     {
-      "Route": "portfolioblazor.5m8buhonsk.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolioblazor.bundle.scp.css",
+      "Route": "portfolioblazor.bundle.scp.css",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolioblazor.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -689,7 +689,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6089"
+          "Value": "6077"
         },
         {
           "Name": "Content-Type",
@@ -697,11 +697,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ=\""
+          "Value": "\"IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 14:50:28 GMT"
+          "Value": "Thu, 23 Jan 2025 05:27:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4="
+        }
+      ]
+    },
+    {
+      "Route": "portfolioblazor.lziobdcsm8.bundle.scp.css",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolioblazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 05:27:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -711,7 +748,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5m8buhonsk"
+          "Value": "lziobdcsm8"
         },
         {
           "Name": "label",
@@ -719,13 +756,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ="
+          "Value": "sha256-IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4="
         }
       ]
     },
     {
-      "Route": "portfolioblazor.5m8buhonsk.styles.css",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolioblazor.styles.css",
+      "Route": "portfolioblazor.lziobdcsm8.styles.css",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolioblazor.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -734,7 +771,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6089"
+          "Value": "6077"
         },
         {
           "Name": "Content-Type",
@@ -742,11 +779,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ=\""
+          "Value": "\"IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 14:50:28 GMT"
+          "Value": "Thu, 23 Jan 2025 05:27:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -756,7 +793,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5m8buhonsk"
+          "Value": "lziobdcsm8"
         },
         {
           "Name": "label",
@@ -764,50 +801,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ="
-        }
-      ]
-    },
-    {
-      "Route": "portfolioblazor.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolioblazor.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6089"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 14:50:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ="
+          "Value": "sha256-IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4="
         }
       ]
     },
     {
       "Route": "portfolioblazor.styles.css",
-      "AssetFile": "C:\\Users\\mothz\\source\\repos\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolioblazor.styles.css",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolioblazor.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -816,7 +816,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6089"
+          "Value": "6077"
         },
         {
           "Name": "Content-Type",
@@ -824,11 +824,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ=\""
+          "Value": "\"IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 14:50:28 GMT"
+          "Value": "Thu, 23 Jan 2025 05:27:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -838,7 +838,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XQILRYLPbXFI57BKSelgOI84LjaL38/BTk2CWcN1RKQ="
+          "Value": "sha256-IXXvla/ZNfVEqyaCyggr3CfnqkhKMEgGsnnQ15/q8s4="
         }
       ]
     }
