@@ -1,0 +1,7 @@
+C:\portfolioblazor\portfolioblazor\obj\Release\net8.0\PubTmp\Out\portfolioblazor.exe
+C:\portfolioblazor\portfolioblazor\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\portfolioblazor\portfolioblazor\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\portfolioblazor\portfolioblazor\obj\Release\net8.0\PubTmp\Out\portfolioblazor.dll
+C:\portfolioblazor\portfolioblazor\obj\Release\net8.0\PubTmp\Out\portfolioblazor.deps.json
+C:\portfolioblazor\portfolioblazor\obj\Release\net8.0\PubTmp\Out\portfolioblazor.runtimeconfig.json
+C:\portfolioblazor\portfolioblazor\obj\Release\net8.0\PubTmp\Out\portfolioblazor.pdb

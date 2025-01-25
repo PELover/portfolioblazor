@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "j8TOuSagk/xijlXrzAkNKc4z96x9Cx8FQVcTXdEkO40=",
+  "Hash": "bqTU6EDsA9l+9bWTYP2Fz55ZdTCr5pblAA47bF5/vTE=",
   "Source": "portfolioblazor",
   "BasePath": "_content/portfolioblazor",
   "Mode": "Default",
@@ -183,6 +183,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\json\\home_th.json"
+    },
+    {
+      "Identity": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\me.jpg",
+      "SourceId": "portfolioblazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\",
+      "BasePath": "_content/portfolioblazor",
+      "RelativePath": "me#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpjzd8a2ty",
+      "Integrity": "gUSs3vkH5jGy1g14VWUl0Le/RbOHNT/Te0S/VuioRXE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\me.jpg"
     }
   ],
   "Endpoints": [
@@ -209,7 +230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 14:30:57 GMT"
+          "Value": "Fri, 24 Jan 2025 07:18:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -246,7 +267,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 14:30:57 GMT"
+          "Value": "Fri, 24 Jan 2025 07:18:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -675,6 +696,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-5exm29qX3tkSSgC53ZpX061JorvWSFbqzvv97I75qek="
+        }
+      ]
+    },
+    {
+      "Route": "me.bpjzd8a2ty.jpg",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\me.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gUSs3vkH5jGy1g14VWUl0Le/RbOHNT/Te0S/VuioRXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 01:09:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpjzd8a2ty"
+        },
+        {
+          "Name": "label",
+          "Value": "me.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gUSs3vkH5jGy1g14VWUl0Le/RbOHNT/Te0S/VuioRXE="
+        }
+      ]
+    },
+    {
+      "Route": "me.jpg",
+      "AssetFile": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\me.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gUSs3vkH5jGy1g14VWUl0Le/RbOHNT/Te0S/VuioRXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 01:09:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gUSs3vkH5jGy1g14VWUl0Le/RbOHNT/Te0S/VuioRXE="
         }
       ]
     },

@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\json\\home_th.json"
     },
     {
+      "Id": "C:\\portfolioblazor\\portfolioblazor\\wwwroot\\me.jpg",
+      "PackagePath": "staticwebassets\\me.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.portfolioblazor.props",
       "PackagePath": "build\\portfolioblazor.props"
     },
