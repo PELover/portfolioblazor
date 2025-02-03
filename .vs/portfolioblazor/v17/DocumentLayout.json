@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\portfolioblazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\portfolioblazor\\portfolioblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\portfolioblazor\\portfolioblazor\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\portfolioblazor\\portfolioblazor\\components\\layout\\navtop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\components\\layout\\navtop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\portfolioblazor\\portfolioblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\portfolioblazor\\portfolioblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\portfolioblazor\\portfolioblazor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\portfolioblazor\\portfolioblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|c:\\portfolioblazor\\portfolioblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C101936C-0B17-4CF1-92F6-E56CB4747B0E}|portfolioblazor\\portfolioblazor.csproj|solutionrelative:portfolioblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EventManager.cs",
               "DocumentMoniker": "C:\\portfolioblazor\\portfolioblazor\\EventManager.cs",
               "RelativeDocumentMoniker": "portfolioblazor\\EventManager.cs",
@@ -55,39 +47,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\portfolioblazor\\portfolioblazor\\Program.cs",
               "RelativeDocumentMoniker": "portfolioblazor\\Program.cs",
               "ToolTip": "C:\\portfolioblazor\\portfolioblazor\\Program.cs",
               "RelativeToolTip": "portfolioblazor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T05:00:48.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\portfolioblazor\\portfolioblazor\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "portfolioblazor\\Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\portfolioblazor\\portfolioblazor\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "portfolioblazor\\Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-24T07:46:51.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Navtop.razor",
-              "DocumentMoniker": "C:\\portfolioblazor\\portfolioblazor\\Components\\Layout\\Navtop.razor",
-              "RelativeDocumentMoniker": "portfolioblazor\\Components\\Layout\\Navtop.razor",
-              "ToolTip": "C:\\portfolioblazor\\portfolioblazor\\Components\\Layout\\Navtop.razor",
-              "RelativeToolTip": "portfolioblazor\\Components\\Layout\\Navtop.razor",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T12:39:07.485Z"
             },
             {
               "$type": "Document",
@@ -103,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\portfolioblazor\\portfolioblazor\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "portfolioblazor\\Components\\Pages\\Home.razor",
@@ -111,8 +79,7 @@
               "RelativeToolTip": "portfolioblazor\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T15:01:55.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T15:01:55.982Z"
             }
           ]
         }
